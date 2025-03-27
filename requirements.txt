@@ -1,0 +1,16 @@
+# Core quantum computing libraries
+pennylane==0.40.0        # Main quantum computing framework
+qiskit==0.45.1          # IBM's quantum computing framework
+
+# Machine learning frameworks
+torch==2.2.0            # PyTorch for classical neural networks
+numpy==1.26.4           # Numerical computations
+scikit-learn==1.4.1.post1  # Classical ML utilities
+
+# Visualization and notebooks
+matplotlib==3.8.3       # Plotting and visualization
+jupyter==1.0.0          # Notebook interface
+seaborn==0.13.2        # Statistical data visualization
+
+# Documentation
+sphinx==7.2.6          # Documentation generator 
